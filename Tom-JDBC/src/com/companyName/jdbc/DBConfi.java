@@ -4,7 +4,7 @@ import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.SQLException;
 
-public class DBCOnfi {
+public class DBConfi {
 // PRIVATE CONSTANTS =======
 private static final String USERNAME = "COMP228_F18_126";
 private static final String PASSWORD = "password";
